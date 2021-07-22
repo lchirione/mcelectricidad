@@ -1,0 +1,87 @@
+@media screen and (min-width: 765px) {
+    .fondo{
+        height: 60vh;
+    }
+}
+.fondo{
+    height: 90vh;
+    background: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+/*Barra de navegacion*/
+.barra {
+    background: #343a4091
+}
+.top-nav-collapse {
+    background: #ffc107be !important;
+
+}
+
+.logo {
+    color: black;
+}
+
+/*Presentacion*/
+.titulo_banner{
+    color: #FFC107;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.texto_banner{
+    color: #FFC107;
+    text-align: center;
+}
+/*Grid inicial*/
+.grid_inicial{
+    padding: 10px;
+
+}
+/*Grid Jumbo*/
+.grid_jumbo{
+    text-align: center;
+}
+/*Precios*/
+.precios{
+    padding-top: 50px;
+}
+.card-img-top{
+    height: 60px;
+    width: 60px;
+}
+.boton{
+    text-align: center;
+}
+
+/*Contacto*/
+
+.banner_contact{
+    background: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 20vh;
+    
+}
+
+h5{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.jumbotron-fluid {
+    background: #7952B3
+}
+
+.titulo_habilitacion{
+    text-align: center;
+}
+.texto_habilitacion{
+    text-align: center;
+}
